@@ -19,12 +19,12 @@ app/libs
 app/src/test/
 app/src/androidTest/
 
-# Signing files
-.signing/
-
 # User-specific configurations
 .idea/
 *.iml
+
+# Signing files
+.signing/
 
 # OS-specific files
 .DS_Store
